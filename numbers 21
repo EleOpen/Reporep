@@ -13,5 +13,16 @@ sum = float(num1) + float(num2)
 
 # reading
 
+
+
 # Display the sum
 print('The sum of {0} and {1} is {2}'.format(num1, num2, sum))
+
+
+x = 3+5j
+y = 5j
+z = -5j
+
+print(type(x))
+print(type(y))
+print(type(z))
